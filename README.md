@@ -125,7 +125,7 @@ Data Science graduate student at Seattle University with 2+ years of experience 
 
 ## Let's Connect
 <a href="mailto:devisowjanya98@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-<a href="https://github.com/Sowjanya2502?tab=repositories" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-24292F?logo=githubpages&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/Sowjanya2502" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-24292F?logo=githubpages&logoColor=white&style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/devisowjanyapadala/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 
 ------
