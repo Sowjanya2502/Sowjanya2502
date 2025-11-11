@@ -20,7 +20,7 @@ Hi, I'm Devi Sowjanya Padala!
 
 ## 🎓 About Me
 
-Data Science graduate student at Seattle University with 2+ years of experience as a Software Engineer at BNY Mellon and CGI, specializing in data-driven solutions, machine learning, and scalable pipeline development. Skilled in Python, SQL, Spark, Databricks, and AWS, with hands-on experience in building end-to-end ML systems for fraud prediction, time-series forecasting, and document automation using OCR and LLMs. Strong foundation in data analytics, deep learning, and AI model optimization, demonstrated through projects in RAG-based AI assistants, dialogue summarization, and large-scale data processing.
+Data Science graduate student at Seattle University with 2+ years of experience as a Software Engineer at BNY Mellon and CGI, specializing in data-driven solutions, machine learning, and scalable pipeline development. Skilled in Python, SQL, Spark, Databricks, and AWS, with hands-on experience in building end-to-end ML systems for fraud prediction, time-series forecasting, and document processing system for automated KYC filed extraction using OCR and LLMs. Strong foundation in data analytics, deep learning, and AI model optimization, demonstrated through projects in RAG-based AI assistants, dialogue summarization, and large-scale data processing.
 
 <hr>
 
